@@ -1,5 +1,2 @@
-git+https://github.com/openai/whisper.git
-torch
-pandas
-#openpyxl
-pydub
+yt-dlp
+faster_whisper
