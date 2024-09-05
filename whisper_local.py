@@ -54,7 +54,7 @@ def split_audio_file(file_path, output_folder):
 
         # 音声ファイルを文字変換
 
-        model = whisper.load_model("medium")
+        model = whisper.load_model("small")
         result = model.transcribe(output_file)
 
         transcription = str(result["text"])

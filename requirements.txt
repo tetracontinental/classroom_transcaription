@@ -1,5 +1,5 @@
 git+https://github.com/openai/whisper.git
 torch
 pandas
-#openpyxl
+openpyxl
 pydub

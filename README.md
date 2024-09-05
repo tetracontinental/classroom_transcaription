@@ -1,2 +1,5 @@
 # classroom_transcaription
  
+initialize.batはなぜinitializeディレクトリの下にあるのか？→不明、windowsの仕様でcurrentでバッチ作業できず
+
+initialize.batはnpm installのようなもの
